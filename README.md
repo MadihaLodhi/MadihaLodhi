@@ -1,3 +1,4 @@
+![logo](https://github.com/MadihaLodhi/MadihaLodhi/commits?author=MadihaLodhi)
 <h1 align="center">Hi 👋, I'm Madiha Lodhi</h1>
 <h3 align="center">A passionate frontend Aspiring Data Analyst | Python, SQL, Excel, Power BIdeveloper from India</h3>
 <img align="right" alt="coading"width="400" src="https://userhttps://camo.githubusercontent.com/638891bca5c85744402c7849ea81d377e77142f55441031bded32b23ba062d31/68747470733a2f2f6d656469612e74656e6f722e636f6d2f4946324a64787a6d794e3441414141692f636f64696e672d6769726c2e676966>
